@@ -1,0 +1,16 @@
+.character-info {
+    display: flex;
+    padding: 20px;
+    gap: 15px;
+    align-items: center;
+}
+
+.character-info__image {
+    max-width: 150px;
+}
+
+.character-info__wrapper {
+    display: flex;
+    flex-direction: column;
+    gap: 5px;
+}
